@@ -1,6 +1,6 @@
 # MS Word to PDF Batch Converter
 
-This tool converts one or multiple MS Word documents (`.docx` or `.doc`) into PDF format efficiently and quickly. It features a user-friendly interface, a progress bar, and a welcome message displayed in the terminal.
+This tool converts one or multiple MS Word documents (`.docx` or `.doc`) into PDF format efficiently and quickly.
 
 ## Features
 
