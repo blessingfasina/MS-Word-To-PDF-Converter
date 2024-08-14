@@ -51,11 +51,6 @@ Follow these steps to set up and run the tool on your local machine.
     - **Conversion**: The tool will then start converting the Word documents to PDFs, showing a progress bar to keep you informed of the process.
     - **Completion**: Once done, the PDFs will be available in the output folder.
 
-### Troubleshooting
-
-- **Error: "The object invoked has disconnected from its clients."**
-    - This error may occur due to issues with the communication between Python and Microsoft Word. The tool includes basic error handling to skip files that encounter issues, so if you see this error, it likely means the tool was unable to convert a particular file.
-
 ### Contributing
 
 Contributions are welcome! If you have suggestions for improvements or find a bug, feel free to fork the repository and submit a pull request.
